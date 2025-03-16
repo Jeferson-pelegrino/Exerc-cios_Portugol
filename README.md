@@ -1,0 +1,1 @@
+Este repositório contém códigos e exemplos desenvolvidos em Portugol, uma linguagem de programação educacional voltada para iniciantes, que utiliza uma sintaxe simples e intuitiva baseada na língua portuguesa.
